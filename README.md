@@ -23,7 +23,7 @@ Ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/Jagdeesh-P/TalentScout-AI-Recruitment-Assistant.git
+https://github.com/Abhijith-03/TalentScout-AI-Hiring-Assistant-Chatbot
 ```
 
 ### Step 2: Install Dependencies
@@ -131,12 +131,6 @@ Return only a hiring probability percentage between 0 and 100%.
 
 ### Challenge 4: Maintaining UI Responsiveness
 **Solution:** Custom CSS and optimized Streamlit elements for a better user experience.
-
----
-
-## Deployment Details
-- **Live App:** *[TalentScout AI on Streamlit](https://talentscout-ai.streamlit.app/)*
-- **Database:** Hosted on **MongoDB Atlas** for secure cloud storage.
 
 ---
 
