@@ -134,23 +134,6 @@ Return only a hiring probability percentage between 0 and 100%.
 
 ---
 
-## Screenshots
-
-1. **Login/Signup Page**  
-   ![Login Page](screenshots/login.png)
-
-2. **Chatbot Interview Interface**  
-   ![Chatbot Interview](screenshots/chatbot.png)
-
-3. **Chatbot Interview Questions**  
-   ![Gauge Chart](screenshots/questions.png)
-
-4. **Final Evaluation Page**  
-   ![Final Evaluation](screenshots/evaluation.png)
-
-
----
-
 ## Future Enhancements
 - Expand AI training for improved response evaluation
 - Multi-language support for global hiring
